@@ -2,8 +2,7 @@ baseURL: https://example.com
 languageCode: en-us
 defaultContentLanguage: en
 title: Jen Diamond's Progress Portal
-theme: cupper-hugo-theme
-publishDir: docs
+publishDir: jendiamond.github.io
 googleAnalytics: UA-123456789-1
 
 taxonomies:

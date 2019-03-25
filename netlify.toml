@@ -1,0 +1,11 @@
+[build]
+publish = "jendiamond_progressportal/public"
+command = """hugo \
+  --source jendiamond_progressportal \
+  --config jendiamond_progressportal/config.yaml \
+  --themesDir ../.. \
+  --theme repo \
+  --baseURL https://some-netlify-url.com"""
+
+[build.environment]
+HUGO_VERSION = "0.54.0"
