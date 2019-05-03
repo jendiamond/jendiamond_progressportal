@@ -4,6 +4,7 @@ defaultContentLanguage: en
 title: Jen Diamond's Progress Portal
 publishDir: jendiamond.github.io
 googleAnalytics: UA-123456789-1
+theme: cupper
 
 taxonomies:
   tag: tags
